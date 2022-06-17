@@ -79,6 +79,7 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Guillaume Gouessan    | ![Guillaume Gouessan](https://user-images.githubusercontent.com/71810927/173070183-c0d30acf-2199-47a3-b0dd-919998e45e69.png)    | [guillaumegouessan.com](https://guillaumegouessan.com/) | [GitHub](https://github.com/superguigui/guillaumegouessan.com)          | GSAP, ThreeJS, JavaScript                                        |
 | Patrick Heng          | ![Patrick Heng](https://user-images.githubusercontent.com/71810927/173091834-946abebd-d814-4b52-be4e-49b6dc9cd521.png)    | [patrickheng.com](https://patrickheng.com/) | None          | Nuxt.js, GSAP, ThreeJS
 | Andrew Baisden        | ![Andrew Baisden](https://user-images.githubusercontent.com/5095486/173239467-0c16213e-e41c-47e8-94cc-959706474ee7.png)   | [andrewbaisden.com](https://andrewbaisden.com) | [GitHub](https://github.com/andrewbaisden/andrew-baisden-portfolio-2022)          | HTML, CSS, TypeScript, ReactJS
+| mc-stephen            | ![mc-stephen-portfolio](https://user-images.githubusercontent.com/60589175/174292558-056aecdc-a486-4eba-97ce-3467c4bca5e9.jpeg)       | [mc-stephen.ml](https://mc-stephen.ml)   |  [GitHub](https://github.com/Emeka212/my-portfolio)   |   HTML5, CSS3, JS
 
 <!-- ==== ⭐ PORTFOLIO LINE END ⭐ ==== -->
 
